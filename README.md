@@ -1,1 +1,2 @@
 # test-spinner
+test
